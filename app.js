@@ -9,7 +9,6 @@ var session = require('express-session');
 var passport = require('passport');
 var flash = require('connect-flash');
 
-var vsdvds;
 
 var indexRouter = require('./routes/index');
 
